@@ -119,3 +119,4 @@ D:\Documentos\Migraciones_Trasporte\obj\Debug\net10.0\refint\Migraciones_Traspor
 D:\Documentos\Migraciones_Trasporte\obj\Debug\net10.0\Migraciones_Trasporte.pdb
 D:\Documentos\Migraciones_Trasporte\obj\Debug\net10.0\Migraciones_Trasporte.genruntimeconfig.cache
 D:\Documentos\Migraciones_Trasporte\obj\Debug\net10.0\ref\Migraciones_Trasporte.dll
+D:\Documentos\Migraciones_Trasporte\obj\Debug\net10.0\Migraciones_Trasporte.sourcelink.json
