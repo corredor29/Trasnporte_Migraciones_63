@@ -6,7 +6,7 @@ namespace Migraciones_Trasporte.src.Modules.Documents_Status.Infrastructure.Enti
 
 public class DocumentStatusEntity
 {
- public Guid Id {get; set;}
+    public Guid Id {get; set;}
     public string Name { get; set; } = string.Empty;
 
     public string Description {get; set;} = string.Empty;

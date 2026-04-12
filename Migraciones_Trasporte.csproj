@@ -23,6 +23,12 @@
     <Folder Include="src\Modules\Document_Category\Infrastructure\" />
     <Folder Include="src\Modules\Document_Category\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Document_Category\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Message_Type\" />
+    <Folder Include="src\Modules\Message_Type\Application\" />
+    <Folder Include="src\Modules\Message_Type\Domain\" />
+    <Folder Include="src\Modules\Message_Type\Infrastructure\" />
+    <Folder Include="src\Modules\Message_Type\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Message_Type\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Notification_Type\" />
     <Folder Include="src\Modules\Notification_Type\Application\" />
     <Folder Include="src\Modules\Notification_Type\Domain\" />

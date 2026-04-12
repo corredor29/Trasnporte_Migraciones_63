@@ -2,13 +2,13 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Migraciones_Trasporte.src.Modules.Documents_Status.Infrastructure.Entity;
+namespace Migraciones_Trasporte.src.Modules.Message_Type.Infrastructure.Entity;
 
-public class DocumentStatusEntityConfiguration : IEntityTypeConfiguration<DocumentStatusEntity>
+public class MessageTypeEntityConfiguration : IEntityTypeConfiguration<MessageTypeEntity>
 {
-    public void Configure(EntityTypeBuilder<DocumentStatusEntity> builder)
+    public void Configure(EntityTypeBuilder<MessageTypeEntity> builder)
     {
-        builder.ToTable("document_status");
+        builder.ToTable("message_type");
 
         builder.HasKey(x => x.Id);
 

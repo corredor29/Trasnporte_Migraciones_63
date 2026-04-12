@@ -1,6 +1,6 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-transaction_types
+
 message_type
 assignment_role
 reason_disputes
