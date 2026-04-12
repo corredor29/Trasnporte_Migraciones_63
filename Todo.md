@@ -1,7 +1,5 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-
-message_type
 assignment_role
 reason_disputes
 disputes_status

@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="src\Modules\Assignment_Role\" />
+    <Folder Include="src\Modules\Assignment_Role\Application\" />
+    <Folder Include="src\Modules\Assignment_Role\Domain\" />
+    <Folder Include="src\Modules\Assignment_Role\Infrastructure\" />
+    <Folder Include="src\Modules\Assignment_Role\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Assignment_Role\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Companies_Status\" />
     <Folder Include="src\Modules\Companies_Status\Application\" />
     <Folder Include="src\Modules\Companies_Status\Domain\" />
