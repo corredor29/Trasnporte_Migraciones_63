@@ -1,7 +1,5 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-
-payment_providers
 transaction_types
 message_type
 assignment_role
