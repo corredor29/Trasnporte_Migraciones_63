@@ -1,6 +1,6 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-payment_statuses
+
 payment_providers
 transaction_types
 message_type

@@ -29,6 +29,12 @@
     <Folder Include="src\Modules\Notification_Type\Infrastructure\" />
     <Folder Include="src\Modules\Notification_Type\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Notification_Type\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Payment_Providers\" />
+    <Folder Include="src\Modules\Payment_Providers\Application\" />
+    <Folder Include="src\Modules\Payment_Providers\Domain\" />
+    <Folder Include="src\Modules\Payment_Providers\Infrastructure\" />
+    <Folder Include="src\Modules\Payment_Providers\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Payment_Providers\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Payment_Statuses\" />
     <Folder Include="src\Modules\Payment_Statuses\Application\" />
     <Folder Include="src\Modules\Payment_Statuses\Domain\" />
