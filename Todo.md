@@ -1,6 +1,5 @@
 Capa 1 — Sin dependencias (primero estas)
 
-companies_status
 notification_type
 subscription_type
 subscription_status
