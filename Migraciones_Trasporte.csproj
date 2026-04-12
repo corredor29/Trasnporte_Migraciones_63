@@ -17,6 +17,12 @@
     <Folder Include="src\Modules\Document_Category\Infrastructure\" />
     <Folder Include="src\Modules\Document_Category\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Document_Category\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Person_Status\" />
+    <Folder Include="src\Modules\Person_Status\Application\" />
+    <Folder Include="src\Modules\Person_Status\Domain\" />
+    <Folder Include="src\Modules\Person_Status\Infrastructure\" />
+    <Folder Include="src\Modules\Person_Status\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Person_Status\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Vehicules_Status\" />
     <Folder Include="src\Modules\Vehicules_Status\Application\" />
     <Folder Include="src\Modules\Vehicules_Status\Domain\" />
