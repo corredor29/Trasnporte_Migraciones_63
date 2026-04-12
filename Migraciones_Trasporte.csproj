@@ -35,6 +35,12 @@
     <Folder Include="src\Modules\Person_Status\Infrastructure\" />
     <Folder Include="src\Modules\Person_Status\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Person_Status\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Subscription_Type\" />
+    <Folder Include="src\Modules\Subscription_Type\Application\" />
+    <Folder Include="src\Modules\Subscription_Type\Domain\" />
+    <Folder Include="src\Modules\Subscription_Type\Infrastructure\" />
+    <Folder Include="src\Modules\Subscription_Type\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Subscription_Type\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Vehicules_Status\" />
     <Folder Include="src\Modules\Vehicules_Status\Application\" />
     <Folder Include="src\Modules\Vehicules_Status\Domain\" />

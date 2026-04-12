@@ -1,6 +1,5 @@
 Capa 1 — Sin dependencias (primero estas)
 
-notification_type
 subscription_type
 subscription_status
 payment_statuses
