@@ -8,7 +8,7 @@ using Migraciones_Trasporte.src.Modules.Companies_Status.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Notification_Type.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Subscription_Type.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Subscription_Status.Infrastructure.Entity;
-
+using Migraciones_Trasporte.src.Modules.Payment_Statuses.Infrastructure.Entity;
 namespace Migraciones_Trasporte.src.Shared.Context;
 
 public class AppDbContext : DbContext
@@ -25,6 +25,7 @@ public class AppDbContext : DbContext
     public DbSet<NotificationTypeEntity> NotificationType {get; set;}
     public DbSet<SubscriptionTypeEntity> SubscriptionType {get; set;}
     public DbSet<SubscriptionStatusEntity> SubscriptionStatus {get; set;}
+    public DbSet<PaymentStatusesEntity> PaymentStatuses {get; set;}
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);

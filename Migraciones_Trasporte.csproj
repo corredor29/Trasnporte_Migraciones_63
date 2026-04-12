@@ -29,6 +29,12 @@
     <Folder Include="src\Modules\Notification_Type\Infrastructure\" />
     <Folder Include="src\Modules\Notification_Type\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Notification_Type\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Payment_Statuses\" />
+    <Folder Include="src\Modules\Payment_Statuses\Application\" />
+    <Folder Include="src\Modules\Payment_Statuses\Domain\" />
+    <Folder Include="src\Modules\Payment_Statuses\Infrastructure\" />
+    <Folder Include="src\Modules\Payment_Statuses\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Payment_Statuses\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Person_Status\" />
     <Folder Include="src\Modules\Person_Status\Application\" />
     <Folder Include="src\Modules\Person_Status\Domain\" />

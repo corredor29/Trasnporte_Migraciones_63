@@ -1,6 +1,5 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-subscription_status
 payment_statuses
 payment_providers
 transaction_types
@@ -19,7 +18,6 @@ stateorregion → countries
 type_documents → document_category
 persons → person_status
 plans → (independiente pero base de suscripciones)
-
 
 Capa 3 — Dependen de capa 2
 
