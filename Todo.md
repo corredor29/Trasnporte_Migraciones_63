@@ -1,6 +1,5 @@
-Capa 1 — Sin dependencias (primero estas)
+# Capa 1 — Sin dependencias (primero estas)
 
-subscription_type
 subscription_status
 payment_statuses
 payment_providers
@@ -14,7 +13,7 @@ roles
 countries
 
 
-Capa 2 — Dependen solo de capa 1
+## Capa 2 — Dependen solo de capa 1
 
 stateorregion → countries
 type_documents → document_category
