@@ -71,6 +71,12 @@
     <Folder Include="src\Modules\Reason_Disputes\Infrastructure\" />
     <Folder Include="src\Modules\Reason_Disputes\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Reason_Disputes\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Roles\" />
+    <Folder Include="src\Modules\Roles\Application\" />
+    <Folder Include="src\Modules\Roles\Domain\" />
+    <Folder Include="src\Modules\Roles\Infrastructure\" />
+    <Folder Include="src\Modules\Roles\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Roles\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Subscription_Status\Application\" />
     <Folder Include="src\Modules\Subscription_Status\Domain\" />
     <Folder Include="src\Modules\Subscription_Status\Infrastructure\" />

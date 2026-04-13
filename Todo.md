@@ -1,7 +1,5 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-
-type_load
 roles
 countries
 
