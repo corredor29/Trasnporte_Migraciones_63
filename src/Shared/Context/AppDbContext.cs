@@ -18,6 +18,8 @@ using Migraciones_Trasporte.src.Modules.Disputes_Status.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Type_Load.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Roles.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Countries.Infrastructure.Entity;
+using Migraciones_Trasporte.src.Modules.Stateorregions.Repository.Entity;
+
 
 
 namespace Migraciones_Trasporte.src.Shared.Context;
@@ -46,6 +48,7 @@ public class AppDbContext : DbContext
     public DbSet<TypeLoadEntity> TypeLoad {get; set;}
     public DbSet<RolesStatusEntity> RolesStatus {get; set;}
     public DbSet<CountriesEntity> Countries {get; set;}
+    public DbSet<StateorregionsEntity> Stateorregions {get; set;}
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);

@@ -83,6 +83,12 @@
     <Folder Include="src\Modules\Roles\Infrastructure\" />
     <Folder Include="src\Modules\Roles\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Roles\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Stateorregions\" />
+    <Folder Include="src\Modules\Stateorregions\Application\" />
+    <Folder Include="src\Modules\Stateorregions\Domain\" />
+    <Folder Include="src\Modules\Stateorregions\Repository\" />
+    <Folder Include="src\Modules\Stateorregions\Repository\Entity\" />
+    <Folder Include="src\Modules\Stateorregions\Repository\Repository\" />
     <Folder Include="src\Modules\Subscription_Status\Application\" />
     <Folder Include="src\Modules\Subscription_Status\Domain\" />
     <Folder Include="src\Modules\Subscription_Status\Infrastructure\" />
