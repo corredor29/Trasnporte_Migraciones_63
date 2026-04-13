@@ -88,6 +88,12 @@
     <Folder Include="src\Modules\Transaction_Types\Infrastructure\" />
     <Folder Include="src\Modules\Transaction_Types\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Transaction_Types\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Type_Load\" />
+    <Folder Include="src\Modules\Type_Load\Application\" />
+    <Folder Include="src\Modules\Type_Load\Domain\" />
+    <Folder Include="src\Modules\Type_Load\Infrastructure\" />
+    <Folder Include="src\Modules\Type_Load\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Type_Load\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Vehicules_Status\" />
     <Folder Include="src\Modules\Vehicules_Status\Application\" />
     <Folder Include="src\Modules\Vehicules_Status\Domain\" />

@@ -1,6 +1,6 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-disputes_status
+
 type_load
 roles
 countries

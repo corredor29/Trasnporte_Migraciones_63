@@ -15,6 +15,7 @@ using Migraciones_Trasporte.src.Modules.Message_Type.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Assignment_Role.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Reason_Disputes.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Disputes_Status.Infrastructure.Entity;
+using Migraciones_Trasporte.src.Modules.Type_Load.Infrastructure.Entity;
 
 
 namespace Migraciones_Trasporte.src.Shared.Context;
@@ -40,6 +41,7 @@ public class AppDbContext : DbContext
     public DbSet<AssignmentRoleEntity> AssignmentRole {get; set;}
     public DbSet<ReasonDisputesEntity> ReasonDisputes {get; set;}
     public DbSet<DisputesStatusEntity> DisputesStatus {get; set;}
+    public DbSet<TypeLoadEntity> TypeLoad {get; set;}
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
