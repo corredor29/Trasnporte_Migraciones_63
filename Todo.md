@@ -1,12 +1,11 @@
 # Capa 1 — Sin dependencias (primero estas)
 
 
-countries
+
 
 
 ## Capa 2 — Dependen solo de capa 1
 
-stateorregion → countries
 type_documents → document_category
 persons → person_status
 plans → (independiente pero base de suscripciones)
