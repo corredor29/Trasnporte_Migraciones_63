@@ -13,6 +13,7 @@ using Migraciones_Trasporte.src.Modules.Payment_Providers.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Transaction_Types.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Message_Type.Infrastructure.Entity;
 using Migraciones_Trasporte.src.Modules.Assignment_Role.Infrastructure.Entity;
+using Migraciones_Trasporte.src.Modules.Reason_Disputes.Infrastructure.Entity;
 
 
 namespace Migraciones_Trasporte.src.Shared.Context;
@@ -36,6 +37,7 @@ public class AppDbContext : DbContext
     public DbSet<TransactionTypesEntity> TransactionTypes {get; set;}
     public DbSet<MessageTypeEntity> MessageType{get; set;}
     public DbSet<AssignmentRoleEntity> AssignmentRole {get; set;}
+    public DbSet<ReasonDisputesEntity> ReasonDisputes {get; set;}
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);

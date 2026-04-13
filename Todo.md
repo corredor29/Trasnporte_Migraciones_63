@@ -1,6 +1,6 @@
 # Capa 1 — Sin dependencias (primero estas)
 
-assignment_role
+
 reason_disputes
 disputes_status
 type_load
