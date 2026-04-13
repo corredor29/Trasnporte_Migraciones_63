@@ -20,6 +20,12 @@
     <Folder Include="src\Modules\Companies_Status\Infrastructure\" />
     <Folder Include="src\Modules\Companies_Status\Infrastructure\Entity\" />
     <Folder Include="src\Modules\Companies_Status\Infrastructure\Repository\" />
+    <Folder Include="src\Modules\Disputes_Status\" />
+    <Folder Include="src\Modules\Disputes_Status\Application\" />
+    <Folder Include="src\Modules\Disputes_Status\Domain\" />
+    <Folder Include="src\Modules\Disputes_Status\Infrastructure\" />
+    <Folder Include="src\Modules\Disputes_Status\Infrastructure\Entity\" />
+    <Folder Include="src\Modules\Disputes_Status\Infrastructure\Repository\" />
     <Folder Include="src\Modules\Documents_Status\Application\" />
     <Folder Include="src\Modules\Documents_Status\Domain\" />
     <Folder Include="src\Modules\Documents_Status\Infrastructure\Repository\" />
